@@ -17,7 +17,7 @@ Built with pure HTML, CSS, and JavaScript with a cyber-neural inspired UI/UX des
 ## 🚀 Live Website
 
 ```bash
-https://UltraDeveloper7.github.io/portfolio/
+https://UltraDeveloper7.github.io/My-Portfolio/
 ```
 
 ---
